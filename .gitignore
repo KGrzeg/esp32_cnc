@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Custom
+esp32_cnc_shield-backups
+
